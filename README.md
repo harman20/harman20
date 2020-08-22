@@ -10,9 +10,9 @@
 
 What I do? 👨‍💻 
 
-Front End Developer 🍥
+**Front End Developer** 🍥
 
-JAVA Developer-Problem Solving and Build projects
+**JAVA Developer-Problem Solving and Build projects**
  
  You Can Connect Me On 👨‍💻
      
