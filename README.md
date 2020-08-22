@@ -8,9 +8,11 @@
 -  ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.
 
 
-What I do? 👨‍💻
- Front End Developer 🍥
- JAVA Developer-Problem Solving and Build projects
+What I do? 👨‍💻 
+
+Front End Developer 🍥
+
+JAVA Developer-Problem Solving and Build projects
  
  You Can Connect Me On 👨‍💻
      
