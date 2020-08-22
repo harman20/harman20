@@ -14,15 +14,13 @@ What I do? 👨‍💻
 
 **JAVA Developer-Problem Solving and Build projects**
  
- You Can Connect Me On 👨‍💻
-     
 
 
 What if you like my work?                                                                                                                             
  -You can Star ⭐ the repositories you like.
  -You can react ❤️ to my LinkedIn posts.
  
--You can connect me on-
+-You can connect me on  👨‍💻
 https://www.linkedin.com/in/harman20/
 
 https://www.github.com/harman20
