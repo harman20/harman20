@@ -20,7 +20,7 @@ What I do? 👨‍💻
  -You can Star ⭐ the repositories you like.
  -You can react ❤️ to my Linkedin posts.
  
--You can connect me on  👨‍💻
+-You can connect me on  👨‍💻                                                                                                                              
 
 https://www.linkedin.com/in/harman20/
 
