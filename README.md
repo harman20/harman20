@@ -12,19 +12,23 @@ What I do? 👨‍💻
 
 **Front End Developer** 🍥
 
-**JAVA Developer-Problem Solving and Build projects**
+**JAVA Developer-Problem Solving and Build projects**                                                   
  
 
 
 **What if you like my work?**                                                                                                                          
  -You can Star ⭐ the repositories you like.
- -You can react ❤️ to my LinkedIn posts.
+ -You can react ❤️ to my Linkedin posts.
  
 -You can connect me on  👨‍💻
+
 https://www.linkedin.com/in/harman20/
 
 https://www.github.com/harman20
 
 https://twitter.com/Harmanj41257847
+
+https://www.facebook.com/harmanjit.singh.140193
+
   
   
