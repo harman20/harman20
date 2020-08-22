@@ -16,7 +16,7 @@ What I do? 👨‍💻
  
 
 
-What if you like my work?                                                                                                                             
+**What if you like my work?**                                                                                                                          
  -You can Star ⭐ the repositories you like.
  -You can react ❤️ to my LinkedIn posts.
  
@@ -26,6 +26,5 @@ https://www.linkedin.com/in/harman20/
 https://www.github.com/harman20
 
 https://twitter.com/Harmanj41257847
-  
   
   
