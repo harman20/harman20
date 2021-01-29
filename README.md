@@ -12,7 +12,9 @@ What I do? 👨‍💻
 
 **Front End Developer** 🍥
 
-**JAVA Developer-Problem Solving and Build projects**                                                   
+**JAVA Developer-Problem Solving and Build projects**           
+
+**LEARNING BASICS OF PHP DEVELOPER**
  
 
 
@@ -30,5 +32,13 @@ https://twitter.com/Harmanj41257847
 
 https://www.facebook.com/harmanjit.singh.140193
 
+
+
+REFER MY GITLAB ACCOUNT -
+
+https://gitlab.webnerserver.com/harmanjit.singh
+
+Star the repositories you like . 
+Checkout harman20.github.io for more information.
   
   
