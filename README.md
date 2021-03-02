@@ -34,10 +34,6 @@ https://www.facebook.com/harmanjit.singh.140193
 
 
 
-REFER MY GITLAB ACCOUNT -
-
-https://gitlab.webnerserver.com/harmanjit.singh
-
 Star the repositories you like . 
 Checkout harman20.github.io for more information.
   
