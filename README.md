@@ -13,7 +13,7 @@ What I do? 👨‍💻
 **Front End Developer** 🍥
         
 
-**LEARNING BASICS OF PHP DEVELOPER**
+**LEARNING BASICS OF PHP DEVELOPER AND FOCUSING MORE ON JAVA PROGRAMMING**
  
 
 
